@@ -1,0 +1,182 @@
+[
+    {
+        "Nombre del coche": "Dacia Sandero II",
+        "Precio": "8.666 €",
+        "Modelo": "1.0 SCe Essential",
+        "Año": "2018",
+        "Tipo de combustible": "Gasolina",
+        "Kilómetros": "33.192 km",
+        "Imágenes": ""
+    },
+    {
+        "Nombre del coche": "BMW X1",
+        "Precio": "20.951 €",
+        "Modelo": "sDrive 18i Advantage",
+        "Año": "2018",
+        "Tipo de combustible": "Gasolina",
+        "Kilómetros": "79.616 km",
+        "Imágenes": "https://cdn.motor1.com/images/mgl/y2PA2q/s1/bmw-x1-m35i-xdrive.webp"
+    },
+    {
+        "Nombre del coche": "Peugeot 3008",
+        "Precio": "20.475 €",
+        "Modelo": "1.5 Blue-HDi Allure",
+        "Año": "2019",
+        "Tipo de combustible": "Diésel",
+        "Kilómetros": "49.272 km",
+        "Imágenes": ""
+    },
+    {
+        "Nombre del coche": "Mercedes-Benz Clase A",
+        "Precio": "25.713 €",
+        "Modelo": "A 200 ",
+        "Año": "2019",
+        "Tipo de combustible": "Gasolina",
+        "Kilómetros": "78.531 km",
+        "Imágenes": ""
+    },
+    {
+        "Nombre del coche": "Audi Q5",
+        "Precio": "21.199 €",
+        "Modelo": "2.0 TDI clean diesel Ultra Advanced edition 110kW",
+        "Año": "2016",
+        "Tipo de combustible": "Diésel",
+        "Kilómetros": "96.214 km",
+        "Imágenes": ""
+    },
+    {
+        "Nombre del coche": "Ford Fiesta",
+        "Precio": "13.142 €",
+        "Modelo": "1.0 EcoBoost Active",
+        "Año": "2020",
+        "Tipo de combustible": "Gasolina",
+        "Kilómetros": "12.141 km",
+        "Imágenes": ""
+    },
+    {
+        "Nombre del coche": "Seat Ibiza",
+        "Precio": "13.799 €",
+        "Modelo": "1.0 TSI FR Crono",
+        "Año": "2016",
+        "Tipo de combustible": "Gasolina",
+        "Kilómetros": "47.408 km",
+        "Imágenes": ""
+    },
+    {
+        "Nombre del coche": "Peugeot 308",
+        "Precio": "16.666 €",
+        "Modelo": "1.5 Blue-HDi GT Line",
+        "Año": "2019",
+        "Tipo de combustible": "Diésel",
+        "Kilómetros": "46.373 km",
+        "Imágenes": ""
+    },
+    {
+        "Nombre del coche": "Kia cee'd",
+        "Precio": "21.618 €",
+        "Modelo": "1.5 TGDI Mild-Hybrid Tech",
+        "Año": "2021",
+        "Tipo de combustible": "Gasolina",
+        "Kilómetros": "21.094 km",
+        "Imágenes": ""
+    },
+    {
+        "Nombre del coche": "Hyundai i30",
+        "Precio": "12.799 €",
+        "Modelo": "1.0 TGDI Klass",
+        "Año": "2017",
+        "Tipo de combustible": "Gasolina",
+        "Kilómetros": "83.717 km",
+        "Imágenes": ""
+    },
+    {
+        "Nombre del coche": "Kia Sportage",
+        "Precio": "17.523 €",
+        "Modelo": "1.7 CRDi X-Tech 2WD Eco-D",
+        "Año": "2018",
+        "Tipo de combustible": "Diésel",
+        "Kilómetros": "57.778 km",
+        "Imágenes": ""
+    },
+    {
+        "Nombre del coche": "Citroen C3 Aircross",
+        "Precio": "12.856 €",
+        "Modelo": "1.2 PureTech Feel",
+        "Año": "2019",
+        "Tipo de combustible": "Gasolina",
+        "Kilómetros": "69.811 km",
+        "Imágenes": ""
+    },
+    {
+        "Nombre del coche": "Hyundai i20",
+        "Precio": "10.761 €",
+        "Modelo": "1.2 Go",
+        "Año": "2018",
+        "Tipo de combustible": "Gasolina",
+        "Kilómetros": "58.869 km",
+        "Imágenes": ""
+    },
+    {
+        "Nombre del coche": "Opel Crossland X",
+        "Precio": "17.047 €",
+        "Modelo": "1.5 CDTI GS Line",
+        "Año": "2021",
+        "Tipo de combustible": "Diésel",
+        "Kilómetros": "28.256 km",
+        "Imágenes": ""
+    },
+    {
+        "Nombre del coche": "BMW Serie 1",
+        "Precio": "24.475 €",
+        "Modelo": "118d M Sport",
+        "Año": "2019",
+        "Tipo de combustible": "Diésel",
+        "Kilómetros": "47.100 km",
+        "Imágenes": ""
+    },
+    {
+        "Nombre del coche": "Hyundai ix35",
+        "Precio": "10.999 €",
+        "Modelo": "1.7 CRDi Comfort 2WD",
+        "Año": "2011",
+        "Tipo de combustible": "Diésel",
+        "Kilómetros": "65.756 km",
+        "Imágenes": ""
+    },
+    {
+        "Nombre del coche": "Toyota Corolla",
+        "Precio": "21.809 €",
+        "Modelo": "2.0 Hybrid GR Sport",
+        "Año": "2020",
+        "Tipo de combustible": "Híbrido",
+        "Kilómetros": "49.388 km",
+        "Imágenes": ""
+    },
+    {
+        "Nombre del coche": "Mercedes-Benz Clase GLA",
+        "Precio": "21.999 €",
+        "Modelo": "GLA 200 d AMG Line",
+        "Año": "2017",
+        "Tipo de combustible": "Diésel",
+        "Kilómetros": "55.785 km",
+        "Imágenes": ""
+    },
+    {
+        "Nombre del coche": "Peugeot Rifter",
+        "Precio": "18.570 €",
+        "Modelo": "1.5 Blue-HDi Active NAV+ Standard",
+        "Año": "2019",
+        "Tipo de combustible": "Diésel",
+        "Kilómetros": "26.113 km",
+        "Imágenes": ""
+    },
+    {
+        "Nombre del coche": "Peugeot 3008",
+        "Precio": "19.713 €",
+        "Modelo": "1.5 Blue-HDi Allure",
+        "Año": "2019",
+        "Tipo de combustible": "Diésel",
+        "Kilómetros": "53.838 km",
+        "Imágenes": ""
+    }
+]
